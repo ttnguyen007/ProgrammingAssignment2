@@ -2,7 +2,7 @@
 ## The following 2 functions must be used Together to store matrix, and to compute and cache and its inverse.
 
 
-## makeCacheMatrix() is used to create an R object and its mean.
+## makeCacheMatrix() is used to create an R object and its matrix.
 
 makeCacheMatrix <- function(x = matrix())
   {
